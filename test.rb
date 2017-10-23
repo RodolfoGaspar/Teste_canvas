@@ -1,5 +1,5 @@
 # /api/v1/users/self/profile?access_token=7~qK0CtUIJ66Lfb6rJhAD3gDybSDwl2RGNOzyUfPcXNY7UQz5jQfzruC5Zs4FqLTly
-
+https://www.twilio.com/blog/2015/10/4-ways-to-parse-a-json-api-with-ruby.html
 require 'rubygems'
 require 'json'
 
